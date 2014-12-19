@@ -3,4 +3,4 @@ webtest
 
 學習
 
-<a href="http://te.yahoo.com">yahoo!</a>
+<a href="http://tw.yahoo.com">yahoo!</a>
